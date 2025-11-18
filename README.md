@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sven — I build human-centered AI systems
+# 👋 Hi, I’m Sven. I build human-centered AI systems
 
 I explore how people and AI agents can understand each other better: interfaces that explain what models see, multimodal assistants that act across devices, and infrastructure for the emerging agentic web where websites expose clear affordances to LLM-based agents.
 
